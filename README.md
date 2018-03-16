@@ -1,6 +1,9 @@
 # 2018_breeding_sci
 Lecture note for science of animal breeding (Seojung Univ.)
 
+## ppt
+- 가설세우기: https://docs.google.com/presentation/d/1ChUfQfLt2Osjb4FExVnoNvA9bDqryx0OETtHufsgCZI/edit?usp=sharing
+
 ## Textbook
 - [생명과학 길라잡이(제7판)](http://lifescience.co.kr/?bbseGoods=491)
 
