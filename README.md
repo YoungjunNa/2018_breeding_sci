@@ -4,6 +4,7 @@ Lecture note for science of animal breeding (Seojung Univ.)
 ## 수업자료
 - 가설세우기: https://docs.google.com/presentation/d/1ChUfQfLt2Osjb4FExVnoNvA9bDqryx0OETtHufsgCZI/edit?usp=sharing
 - 원소와 원자: https://www.youtube.com/watch?v=azhQOJ4zceg
+- 공유결합: https://www.youtube.com/watch?v=LkAykOv1foc
 
 ## Textbook
 - [생명과학 길라잡이(제7판)](http://lifescience.co.kr/?bbseGoods=491)
