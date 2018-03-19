@@ -7,7 +7,7 @@ Lecture note for science of animal breeding (Seojung Univ.)
 ## Supplementaries 
 1. [Hypothesis](https://docs.google.com/presentation/d/1ChUfQfLt2Osjb4FExVnoNvA9bDqryx0OETtHufsgCZI/edit?usp=sharing)
 2. [Atom and element](https://www.youtube.com/watch?v=azhQOJ4zceg)
-3. [covalent bond](https://www.youtube.com/watch?v=LkAykOv1foc)
+3. [Covalent bond](https://www.youtube.com/watch?v=LkAykOv1foc)
 4. [Linear algebra](https://www.youtube.com/playlist?list=PLDeFkuzts9JwGtSK6LSnxpdu1rQsUjeN6)
 
 ## Reference
