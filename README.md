@@ -10,6 +10,7 @@ Lecture note for science of animal breeding (Seojung Univ.)
 3. [Covalent bond](https://www.youtube.com/watch?v=LkAykOv1foc)
 4. [Linear algebra](https://www.youtube.com/playlist?list=PLDeFkuzts9JwGtSK6LSnxpdu1rQsUjeN6)  
 5. [Protein structure](https://youtu.be/qBRFIMcxZNM)  
+6. [Protein synthesis](https://www.youtube.com/watch?v=gG7uCskUOrA)
 
 ## Reference
 -  [Lecture notes. L. R. Schaeffer](https://ansari.iut.ac.ir/sites/ansari.iut.ac.ir/files//homework_course/animal_breeding_methods.pdf)
